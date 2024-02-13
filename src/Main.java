@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Иди на хуй");
-        System.out.println("Сейчас пойду");
+        System.out.println("Сам иди на хуй");
     }
 }
